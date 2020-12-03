@@ -1,6 +1,8 @@
-# brew_crew
+# Brew Crew
 
-A new Flutter project.
+Mobile App Dev Lab exercise by Shakir 193908 </br>
+Following the flutter for beginner tutorial on youtube on how to use Flutter with Firebase </br>
+User can select their preference coffee mix to be included in list of others order for easier batch order
 
 ## Getting Started
 
